@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@astrojs/sitemap": "^0.1.0",
-    "astro": "^1.2.4",
+    "astro": "^1.9.2",
     "astro-sanity": "^1.0.0",
     "date-fns": "^2.23.0",
     "dotenv": "^10.0.0",
